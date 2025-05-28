@@ -1,0 +1,9 @@
+C:/Users/da1lu/Desktop/kinomania-main/build/CMakeFiles/kinomania.dir
+C:/Users/da1lu/Desktop/kinomania-main/build/CMakeFiles/package.dir
+C:/Users/da1lu/Desktop/kinomania-main/build/CMakeFiles/package_source.dir
+C:/Users/da1lu/Desktop/kinomania-main/build/CMakeFiles/edit_cache.dir
+C:/Users/da1lu/Desktop/kinomania-main/build/CMakeFiles/rebuild_cache.dir
+C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-build/CMakeFiles/package.dir
+C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-build/CMakeFiles/package_source.dir
+C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-build/CMakeFiles/edit_cache.dir
+C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-build/CMakeFiles/rebuild_cache.dir

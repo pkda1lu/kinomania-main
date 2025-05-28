@@ -1,0 +1,8 @@
+# ninja log v6
+12	1908	7700578166355240	CMakeFiles/kinomania.dir/src/main.cpp.obj	bf0ce91fda57108
+18	2005	7700578166432207	CMakeFiles/kinomania.dir/src/Application.cpp.obj	df7e87085603fbb2
+2999	3704	7700578196228055	kinomania.exe	776fcc477859919e
+37	2015	7700578166618149	CMakeFiles/kinomania.dir/src/UI/AuthWindow.cpp.obj	5b6c4de161f932eb
+32	2072	7700578166560478	CMakeFiles/kinomania.dir/src/UI/ContentDetails.cpp.obj	225fd42ab3d28308
+28	2757	7700578166519976	CMakeFiles/kinomania.dir/src/UI/MainWindow.cpp.obj	3b78b1c2c84f0ae9
+24	2998	7700578166482866	CMakeFiles/kinomania.dir/src/database.cpp.obj	a28b2fdd33763bdc

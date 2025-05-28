@@ -1,0 +1,21 @@
+# ninja log v6
+4	104	7700578090053093	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	41a62dc2ecb1a6b8
+1709	1774	7700578106752208	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	34f6d71cbec76bf7
+105	1708	7700578106087606	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	548f66a6f62dbde3
+1776	1840	7700578107451950	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	a64889a7f43ad56e
+4	104	7700578090053093	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	41a62dc2ecb1a6b8
+105	1708	7700578106087606	json-populate-prefix/src/json-populate-stamp/json-populate-download	548f66a6f62dbde3
+1776	1840	7700578107451950	json-populate-prefix/src/json-populate-stamp/json-populate-patch	a64889a7f43ad56e
+1709	1774	7700578106752208	json-populate-prefix/src/json-populate-stamp/json-populate-update	34f6d71cbec76bf7
+1906	1967	7700578108660135	json-populate-prefix/src/json-populate-stamp/json-populate-build	2eeb625817248677
+1841	1906	7700578108090525	json-populate-prefix/src/json-populate-stamp/json-populate-configure	76e3b66cb0ce8885
+1841	1906	7700578108090525	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	76e3b66cb0ce8885
+1906	1967	7700578108660135	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	2eeb625817248677
+1967	2028	7700578109308364	json-populate-prefix/src/json-populate-stamp/json-populate-install	c4c251b0d5d28e84
+2029	2087	7700578109907733	json-populate-prefix/src/json-populate-stamp/json-populate-test	a01d019957dcf870
+1967	2028	7700578109308364	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	c4c251b0d5d28e84
+2029	2087	7700578109907733	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	a01d019957dcf870
+2087	2167	7700578110674204	CMakeFiles/json-populate-complete	91e800b168f54407
+2087	2167	7700578110674204	json-populate-prefix/src/json-populate-stamp/json-populate-done	91e800b168f54407
+2087	2167	7700578110674204	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/CMakeFiles/json-populate-complete	91e800b168f54407
+2087	2167	7700578110674204	C:/Users/da1lu/Desktop/kinomania-main/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	91e800b168f54407
