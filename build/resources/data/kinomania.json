@@ -1,6 +1,90 @@
 {
-  "users": [],
-  "content": [],
-  "comments": [],
-  "ratings": []
-} 
+    "comments": [
+        {
+            "content_id": 2,
+            "created_at": "2025-05-28 14:39:44",
+            "id": 1,
+            "rating": 5,
+            "text": "wow i love this film",
+            "user_id": -858993460,
+            "username": ""
+        },
+        {
+            "content_id": 3,
+            "created_at": "2025-05-30 15:30:08",
+            "id": 2,
+            "rating": 5,
+            "text": "crazy actors",
+            "user_id": -858993460,
+            "username": ""
+        }
+    ],
+    "content": [
+        {
+            "category": "Movies",
+            "cover_path": "Inception.jpg",
+            "created_at": "2025-05-28 14:39:21",
+            "description": "SOOOOO good",
+            "genres": [
+                "Drama"
+            ],
+            "id": 2,
+            "tags": [
+                "Cools"
+            ],
+            "title": "Inception",
+            "year": 2014
+        },
+        {
+            "category": "TV Series",
+            "cover_path": "Last.jpg",
+            "created_at": "2025-05-30 13:40:35",
+            "description": "New serial to game",
+            "genres": [
+                "drama"
+            ],
+            "id": 3,
+            "tags": [
+                "Stas Yarushin"
+            ],
+            "title": "The Last Of US",
+            "year": 2024
+        },
+        {
+            "category": "Movies",
+            "cover_path": "WWZ.jpg",
+            "created_at": "2025-05-30 15:29:37",
+            "description": "A 2013 American zombie action film directed by Mark Forster and written by Matthew Michael Carnahan, Drew Goddard, Damon Lindelof and narrated by Carnahan and J. Michael Strazynski, based on Max Brooks' novel World War Z",
+            "genres": [
+                "shooter"
+            ],
+            "id": 5,
+            "tags": [
+                "zombie"
+            ],
+            "title": "World War Z",
+            "year": 2010
+        }
+    ],
+    "ratings": [
+        {
+            "content_id": 2,
+            "created_at": "2025-05-28 14:39:44",
+            "rating": 5
+        },
+        {
+            "content_id": 3,
+            "created_at": "2025-05-30 15:30:08",
+            "rating": 5
+        }
+    ],
+    "users": [
+        {
+            "created_at": "2025-05-28 14:37:29",
+            "email": "123",
+            "id": 1,
+            "password": "123",
+            "username": "123"
+        }
+    ]
+}

@@ -20,7 +20,7 @@ void Database::loadData() {
     if (file.is_open()) {
         file >> data;
     } else {
-        // Initialize empty database structure
+
         data = {
             {"users", nlohmann::json::array()},
             {"content", nlohmann::json::array()},
@@ -252,9 +252,9 @@ bool Database::isContentEmpty() {
 }
 
 void Database::fillWithSampleData() {
-    // Add sample content
+
     Content movie1 = {
-        0, // id will be set by addContent
+        0,
         "The Shawshank Redemption",
         "shawshank.jpg",
         1994,
